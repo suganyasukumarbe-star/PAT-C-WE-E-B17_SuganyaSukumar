@@ -1,1 +1,1 @@
-# PAT-C-WE-E-B17
+This repository contains HTML content.
